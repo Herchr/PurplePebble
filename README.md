@@ -1,6 +1,6 @@
 # PurplePebble
 simple visual timer
 
-![SS1](https://user-images.githubusercontent.com/32057462/189901103-1025a14a-d605-4393-b550-947056dbd49c.png)
-![SS2](https://user-images.githubusercontent.com/32057462/189901111-4e580f1a-3ce0-4ebd-af3b-2c9c2d561027.png)
-![SS3](https://user-images.githubusercontent.com/32057462/189901127-6a29b85d-0e00-40c1-b8b3-2b6d2b8069bf.png)
+
+![Simulator Screen Shot - iPhone 13 mini - 2022-09-07 at 14 55 54](https://user-images.githubusercontent.com/32057462/189901247-1a1341de-2b55-4bf1-9041-27d7dea449b3.png)
+![Simulator Screen Shot - iPhone 13 mini - 2022-09-11 at 18 19 10](https://user-images.githubusercontent.com/32057462/189901297-e529740f-07ed-4c9f-a83d-57bf0ce15969.png)
